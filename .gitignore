@@ -1,1 +1,4 @@
 *.py
+*.log
+PlayerList.*
+profiles/*
