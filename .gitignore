@@ -1,4 +1,7 @@
 *.py
 *.log
 PlayerList.*
-profiles/*
+profiles*
+guilds/*
+GuildList.*
+dict*

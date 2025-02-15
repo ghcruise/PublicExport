@@ -1743,7 +1743,7 @@
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageTrinityMeridianDark","name":"Trinity 经络浮印 - 黑暗","description":"Trinity 经络在黑暗背景下的浮印。","codexSecret":true},
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageTrinityPrimeBright","name":"Trinity Prime 浮印 - 明亮","description":"Trinity Prime 在明亮背景下的浮印。","codexSecret":true},
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageTrinityPrimeDark","name":"Trinity Prime 浮印 - 黑暗","description":"Trinity Prime 在黑暗背景下的浮印。","codexSecret":true},
-{"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageTwelveYearAnniversary","name":"Year Twelve Anniversary Glyph","description":"A glyph to commemorate twelve years of Warframe.","codexSecret":true,"excludeFromCodex":true},
+{"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageTwelveYearAnniversary","name":"十二周年纪念浮印","description":"Warframe 十二周年纪念的浮印。","codexSecret":true,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageValaCommunity","name":"薇拉社区浮印","description":"由 FrostyNovaPrime 创作的一个设计师浮印。","codexSecret":true,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBastetBright","name":"Revenant 芭丝特浮印 - 明亮","description":"Valkyr 芭丝特在明亮背景下的浮印。","codexSecret":true},
 {"uniqueName":"/Lotus/Types/StoreItems/AvatarImages/ImageValkyrBastetDark","name":"Revenant 芭丝特浮印 - 黑暗","description":"Valkyr 芭丝特在黑暗背景下的浮印。","codexSecret":true},

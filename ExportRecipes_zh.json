@@ -2275,7 +2275,7 @@
 {"ItemType":"/Lotus/Types/Items/MiscItems/Rubedo","ItemCount":1600,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/Salvage","ItemCount":6200,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/AlloyPlate","ItemCount":2950,"ProductCategory":"MiscItems"}],"secretIngredients":[]},
-{"uniqueName":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeBlueprint","resultType":"/Lotus/Powersuits/Runner/GaussPrime","buildPrice":25000,"buildTime":259200,"skipBuildTimePrice":50,"consumeOnUse":true,"num":1,"codexSecret":false,"primeSellingPrice":45,"ingredients":[{"ItemType":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeHelmetComponent","ItemCount":1,"ProductCategory":"MiscItems"},
+{"uniqueName":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeBlueprint","resultType":"/Lotus/Powersuits/Runner/GaussPrime","buildPrice":25000,"buildTime":259200,"skipBuildTimePrice":50,"consumeOnUse":true,"num":1,"codexSecret":false,"primeSellingPrice":25,"ingredients":[{"ItemType":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeHelmetComponent","ItemCount":1,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeChassisComponent","ItemCount":1,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Recipes/WarframeRecipes/GaussPrimeSystemsComponent","ItemCount":1,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/OrokinCell","ItemCount":5,"ProductCategory":"MiscItems"}],"secretIngredients":[]},
