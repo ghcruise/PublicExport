@@ -3422,7 +3422,7 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankOne","name":"索拉里斯之声探员纹章","codexSecret":false,"description":"这枚纹章代表着得到了索拉里斯之声的威望。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankThree","name":"索拉里斯之声刽子手纹章","codexSecret":false,"description":"这枚纹章代表着得到了索拉里斯之声的威望。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/Syndicate/VoxRankTwo","name":"索拉里斯之声特工纹章","codexSecret":false,"description":"这枚纹章代表着得到了索拉里斯之声的威望。"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/1999DrippySigil","name":"滴答纹章","codexSecret":false,"excludeFromCodex":true,"description":"通过这个滴答纹章，狂欢就像回到了 1999 年！"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/1999DrippySigil","name":"滴答纹章","codexSecret":false,"description":"通过这个滴答纹章，狂欢就像回到了 1999 年！"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/AllianceSigilBasic","name":"联盟纹章","codexSecret":false,"excludeFromCodex":true,"description":"这枚纹章是由联盟内团结一致的成员所配戴。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/ArchwingSigil","name":"九重天纹章","codexSecret":false,"description":"远古之战中的航道星舰舰员骄傲地佩戴过同样的纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/BansheeDeluxeSigil","name":"Banshee 女高音纹章","codexSecret":false,"description":"带着自豪感佩戴 Banshee 女高音纹章"},

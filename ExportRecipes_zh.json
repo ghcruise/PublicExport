@@ -2822,7 +2822,7 @@
 {"ItemType":"/Lotus/Types/Items/MiscItems/Plastids","ItemCount":450,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/PolymerBundle","ItemCount":1425,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/AlloyPlate","ItemCount":5500,"ProductCategory":"MiscItems"}],"secretIngredients":[]},
-{"uniqueName":"/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetBlueprint","resultType":"/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetComponent","buildPrice":15000,"buildTime":43200,"skipBuildTimePrice":25,"consumeOnUse":true,"num":1,"codexSecret":false,"primeSellingPrice":100,"ingredients":[{"ItemType":"/Lotus/Types/Items/MiscItems/ArgonCrystal","ItemCount":2,"ProductCategory":"MiscItems"},
+{"uniqueName":"/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetBlueprint","resultType":"/Lotus/Types/Recipes/WarframeRecipes/NidusPrimeHelmetComponent","buildPrice":15000,"buildTime":43200,"skipBuildTimePrice":25,"consumeOnUse":true,"num":1,"codexSecret":false,"primeSellingPrice":65,"ingredients":[{"ItemType":"/Lotus/Types/Items/MiscItems/ArgonCrystal","ItemCount":2,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/Cryotic","ItemCount":600,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/Circuits","ItemCount":1100,"ProductCategory":"MiscItems"},
 {"ItemType":"/Lotus/Types/Items/MiscItems/Nanospores","ItemCount":4975,"ProductCategory":"MiscItems"}],"secretIngredients":[]},
