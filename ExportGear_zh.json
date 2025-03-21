@@ -175,4 +175,6 @@
 {"uniqueName":"/Lotus/Types/Restoratives/TeamEnergyTotem","name":"团队能量补给（小型）","description":"恢复全团队的能量。每次脉冲恢复 25 点能量。脉冲间隔 7.5 秒，共计 30 秒。","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"},
 {"uniqueName":"/Lotus/Types/Restoratives/TeamHeal","name":"团队生命补给（小型）","description":"恢复全团队的生命。每次脉冲恢复 30 点生命。脉冲间隔 7.5 秒，共计 30 秒。","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"},
 {"uniqueName":"/Lotus/Types/Restoratives/TeamHealTotem","name":"团队生命补给（小型）","description":"恢复全团队的生命。每次脉冲恢复 30 点生命。脉冲间隔 7.5 秒，共计 30 秒。","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"},
-{"uniqueName":"/Lotus/Types/Restoratives/TeamShieldTotem","name":"团队护盾补给（小型）","description":"恢复全团队的护盾。每次脉冲恢复 35 点护盾。脉冲间隔 7.5 秒，共计 30 秒。","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"}]}
+{"uniqueName":"/Lotus/Types/Restoratives/TeamShieldTotem","name":"团队护盾补给（小型）","description":"恢复全团队的护盾。每次脉冲恢复 35 点护盾。脉冲间隔 7.5 秒，共计 30 秒。","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"},
+{"uniqueName":"/Lotus/Types/Restoratives/ThermianRPGSummon","name":"热熔火箭炮","description":"部署热熔火箭炮","codexSecret":false,"parentName":"/Lotus/Types/Game/Restorative"},
+{"uniqueName":"/Lotus/Upgrades/Stickers/Objects/POM2NetworkingSummon","name":"召唤殁世机甲","description":"召唤一架殁世机甲到战场上。","codexSecret":false,"parentName":"/Lotus/Types/Restoratives/LoadoutTechSummon"}]}
