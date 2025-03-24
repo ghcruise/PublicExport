@@ -5,12 +5,12 @@ ExportFusionBundles_zh.json!00_3F4dTCbMXoA2nfFGB3EHHQ
 ExportGear_zh.json!00_ap6oUevK++BvAjZd0kiIuQ
 ExportKeys_zh.json!00_FU74hQ5WFsHpFf5vAm+K4Q
 ExportRecipes_zh.json!00_k-7X014FsAIrpKellhlfKQ
-ExportRegions_zh.json!00_7yn4xrPkZj84QtIgfOAguw
+ExportRegions_zh.json!00_ijwXk93CdtlzhG3yrmUg3A
 ExportRelicArcane_zh.json!00_MS5KUizEdgsTCkar3Ix2xA
 ExportResources_zh.json!00_q3WcaIpxJ6sdliZtXU1Bug
 ExportSentinels_zh.json!00_-qqUErJeDXVRIZRLOUcyiQ
 ExportSortieRewards_zh.json!00_QKqs3CgSaSDqXJuKzkd7uA
-ExportUpgrades_zh.json!00_M4yid5FhB2sRpT8o82bUsQ
-ExportWarframes_zh.json!00_BpotEjS61sKItvrg9+I7EA
+ExportUpgrades_zh.json!00_4HU5cZr0ObR7cbWrGlHD+g
+ExportWarframes_zh.json!00_hT-TXZE4N-nHSnyBkwORIA
 ExportWeapons_zh.json!00_+ZMewQ5B7onkfyC8cFgGeg
 ExportManifest.json!00_WAFA-4v2C5aaxhT6e5RAzw

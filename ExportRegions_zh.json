@@ -258,4 +258,4 @@
 {"uniqueName":"SolNode856","name":"刺杀：H-09 坦克","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":0,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
 {"uniqueName":"SolNode857","name":"对战：小队独战","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":42,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
 {"uniqueName":"SolNode858","name":"至日广场","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":8,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
-{"uniqueName":"SolNode859","name":"[PH] Lich Bounty Mission Name","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":1,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70}]}
+{"uniqueName":"SolNode859","name":"杀毒赏金","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":1,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70}]}
