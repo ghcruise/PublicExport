@@ -193,7 +193,7 @@
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteNightmareMissions","name":"暗夜之恐","description":"完成 |COUNT| 项任何类型的噩梦任务。","standing":7000,"required":5},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteSortie","name":"突击行家","description":"完成 |COUNT| 次突击。","standing":7000,"required":3},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardEliteSanctuaryOnslaught","name":"精英测试对象","description":"完成 |COUNT| 个精英级圣殿突袭区域。","standing":7000,"required":8},
-{"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsDefense","name":"防御","description":"Complete a Defense mission reaching at least Wave 12.","standing":7000,"required":1},
+{"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsDefense","name":"防御","description":"完成一场至少 12 波的防御任务。","standing":7000,"required":1},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsProfitTaker","name":"利润收割者","description":"击杀利润收割者。","standing":7000,"required":1},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardFriendsSurvival","name":"生存","description":"完成一场至少 20 分钟的生存任务。","standing":7000,"required":1},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardIndexWinStreak","name":"日间商人","description":"在一场指数之场中连续完成 3 轮且没有让敌人得分。","standing":7000,"required":1},
