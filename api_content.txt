@@ -6,11 +6,11 @@ ExportGear_zh.json!00_zuGY32OAfJwSB3xWOPxh6g
 ExportKeys_zh.json!00_ai-qg2TKJmjmrlDMQs0qIA
 ExportRecipes_zh.json!00_Zk6wafiDofeGDSCR90y7pQ
 ExportRegions_zh.json!00_cfOlIV+jUSJFTzjP7BHD8w
-ExportRelicArcane_zh.json!00_cNnGOcLuju7Oht+tX-WvfA
-ExportResources_zh.json!00_kVtSKk-c3nyF8773JAKAWQ
+ExportRelicArcane_zh.json!00_ENyM0Dio-028xpbkiLWEUA
+ExportResources_zh.json!00_BXoeC1j39Q4FOxSGLrRLWw
 ExportSentinels_zh.json!00_-qqUErJeDXVRIZRLOUcyiQ
-ExportSortieRewards_zh.json!00_ATpnSY3LtYUk4Rk72b93Rw
-ExportUpgrades_zh.json!00_NKwMFyRn2gZ4-ZJKkNfKKg
+ExportSortieRewards_zh.json!00_x3BMIOWHjtQju5bPIUKx7Q
+ExportUpgrades_zh.json!00_mXPNMBwHDADKeS12+Jb07Q
 ExportWarframes_zh.json!00_gLeotyOr8daJPDMjsev4SQ
 ExportWeapons_zh.json!00_CaNyr5lqEjtST6WyM1eLVQ
-ExportManifest.json!00_Pu7ToUxHMzWzu+QyN8hbEQ
+ExportManifest.json!00_0mtxIXHQ+E0Z2i8Jr+elEQ
