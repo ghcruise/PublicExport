@@ -227,7 +227,7 @@
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklySolveCiphers","name":"黑客","description":"入侵 |COUNT| 个控制台。","standing":4500,"required":10},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyOpenLockers","name":"盗窃癖","description":"打开 |COUNT| 个储物柜。","standing":4500,"required":30},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardKillTank","name":"坦克破灭","description":"击败一辆 H-09 艾弗旺坦克","standing":7000,"required":1},
-{"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteConquest","name":"测试对象","description":"完成一次深层科研或时光科研","standing":7000,"required":1}],"rewards":[{"uniqueName":"/Lotus/Types/Items/MiscItems/NoraIntermissionThirteenCreds","itemCount":150},
+{"uniqueName":"/Lotus/Types/Challenges/Seasons/WeeklyHard/SeasonWeeklyHardCompleteConquest","name":"自愿受试者","description":"完成一次深层科研或时光科研","standing":7000,"required":1}],"rewards":[{"uniqueName":"/Lotus/Types/Items/MiscItems/NoraIntermissionThirteenCreds","itemCount":150},
 {"uniqueName":"/Lotus/StoreItems/Upgrades/Skins/Sigils/CosmosSigil","name":"拉雅天轨纹章","description":"这款拉雅系列纹章展示了宇宙的优雅线条。"},
 {"uniqueName":"/Lotus/Types/Items/MiscItems/OrokinCatalyst","itemCount":2},
 {"uniqueName":"/Lotus/Upgrades/Skins/Nightwave/CosmosArcaTitronSkin"},

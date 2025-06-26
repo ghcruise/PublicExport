@@ -108,7 +108,7 @@
 {"uniqueName":"SolNode17","name":"Proteus","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":8,"factionIndex":1,"minEnemyLevel":27,"maxEnemyLevel":32},
 {"uniqueName":"SolNode78","name":"Triton","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":3,"factionIndex":1,"minEnemyLevel":28,"maxEnemyLevel":30},
 {"uniqueName":"SolNode6","name":"Despina","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":17,"factionIndex":1,"minEnemyLevel":27,"maxEnemyLevel":32},
-{"uniqueName":"SolNode57","name":"Sao","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":4,"factionIndex":1,"minEnemyLevel":29,"maxEnemyLevel":31},
+{"uniqueName":"SolNode57","name":"Sao","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":4,"factionIndex":1,"minEnemyLevel":30,"maxEnemyLevel":32},
 {"uniqueName":"SolNode62","name":"Neso","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":1,"factionIndex":1,"minEnemyLevel":29,"maxEnemyLevel":31},
 {"uniqueName":"SolNode908","name":"Salacia","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":9,"factionIndex":1,"minEnemyLevel":27,"maxEnemyLevel":32},
 {"uniqueName":"SolNode127","name":"Psamathe","systemIndex":7,"systemName":"海王星","nodeType":0,"masteryReq":0,"missionIndex":0,"factionIndex":1,"minEnemyLevel":30,"maxEnemyLevel":32},
