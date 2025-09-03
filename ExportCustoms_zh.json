@@ -3603,7 +3603,7 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DogDaysKubrowSigil","name":"飞踢爪喀纹章","codexSecret":false,"description":"爪喀已经做好了扑倒的准备。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DogDaysSigil","name":"三伏天纹章","codexSecret":false,"description":"通过这独特纹章来抵抗炎炎高温。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DotD2016Sigil","name":"亡灵节纹章","codexSecret":false,"description":"一只令人毛骨悚然的节庆风格纹章。"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil","name":"戴拿之幕纹章","codexSecret":false,"excludeFromCodex":true,"description":"一只令人毛骨悚然的节庆风格纹章。"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DotD2025Sigil","name":"戴拿之幕纹章","codexSecret":true,"description":"一只令人毛骨悚然的节庆风格纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/DuvDragonSigil","name":"奥金魇龙之怒纹章","codexSecret":true,"description":"一枚让人回忆起元素奥金魇龙的纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/EnergySigilA","name":"裂隙纹章","codexSecret":false,"description":"这枚纹章镶有来自虚空的能量。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/EnergySigilB","name":"仲裁疤痕纹章","codexSecret":false,"description":"背负在致命的仲裁中获得的伤疤。"},
