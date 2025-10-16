@@ -22,6 +22,7 @@
 {"uniqueName":"/Lotus/Types/Keys/KubrowQuest/KubrowQuestKeyChain","name":"库狛取得任务","description":"你是 Tenno，你应要有一只库狛伴随。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/LimboQuest/LimboQuestKeyChain","name":"Limbo 定理","description":"Limbo 定理任务必须具备曲翼才能完成\r\n\r\n通过拼凑 Limbo 定理来揭露其起源","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/MirageQuest/MirageQuestKeyChain","name":"被隐藏的信息","description":"寻找 Mirage 战甲。","parentName":"","codexSecret":false},
+{"uniqueName":"/Lotus/Types/Keys/ModQuest/ModQuestKeyChain","name":"老师","description":"Corpus 入侵 Grineer 领土，却引发与一位被遗忘的劲敌的对决。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain","name":"Inaros 之沙","description":"帮 Baro Ki'Teer 突袭一座古老的火星古墓并偷盗一件神秘的宝物。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/NewPlayerQuest/NewPlayerQuestKeyChain","name":"觉醒","description":"Tenno：古代战士地位的遗迹。\r\n\r\n世世代代你都在沉睡，也没有人唤醒你。\r\n\r\n直到现在。","parentName":"","codexSecret":true,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Keys/NewWarIntroQuest/NewWarIntroKeyChain","name":"Erra","description":"","parentName":"","codexSecret":true},

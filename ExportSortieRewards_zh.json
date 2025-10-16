@@ -253,7 +253,7 @@
 {"uniqueName":"/Lotus/Types/Items/MiscItems/NoraIntermissionThirteenCreds","itemCount":50},
 {"uniqueName":"/Lotus/Upgrades/Mods/Nightwave/NightwaveCephPrimaryAugmentMod"},
 {"uniqueName":"/Lotus/Types/Items/MiscItems/FormaStance"},
-{"uniqueName":"/Lotus/Types/StoreItems/Packages/NightwaveOperatorCosmeticsBundleA","name":"指挥官认知组合包","description":"用这些受中枢启发的装饰来增强你的真实性。","components":["认知耳饰","认知眼饰","认知面具"]},
+{"uniqueName":"/Lotus/Types/StoreItems/Packages/NightwaveOperatorCosmeticsBundleA","name":"指挥官认知组合包","description":"用这些受中枢启发的装饰来增强你的真实性。","components":["认知耳饰","认知眼饰","认知面罩"]},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/Twitch2023Ephemera"},
 {"uniqueName":"/Lotus/Types/Items/MiscItems/FormaUmbra"},
 {"uniqueName":"/Lotus/Upgrades/Skins/BrokenFrame/XakuCosmosSkin"},

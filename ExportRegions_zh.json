@@ -24,6 +24,7 @@
 {"uniqueName":"SolNode101","name":"Kiliken","systemIndex":1,"systemName":"金星","nodeType":0,"masteryReq":0,"missionIndex":17,"factionIndex":1,"minEnemyLevel":3,"maxEnemyLevel":7},
 {"uniqueName":"ClanNode0","name":"Romula","systemIndex":1,"systemName":"金星","nodeType":4,"masteryReq":0,"missionIndex":8,"factionIndex":2,"minEnemyLevel":8,"maxEnemyLevel":18},
 {"uniqueName":"SolNode902","name":"Montes","systemIndex":1,"systemName":"金星","nodeType":0,"masteryReq":0,"missionIndex":1,"factionIndex":1,"minEnemyLevel":3,"maxEnemyLevel":8},
+{"uniqueName":"NokkoColony","name":"深矿","systemIndex":1,"systemName":"金星","nodeType":0,"masteryReq":0,"missionIndex":28,"factionIndex":1,"minEnemyLevel":30,"maxEnemyLevel":40},
 {"uniqueName":"SolNode63","name":"Mantle","systemIndex":2,"systemName":"地球","nodeType":0,"masteryReq":0,"missionIndex":5,"factionIndex":0,"minEnemyLevel":2,"maxEnemyLevel":4},
 {"uniqueName":"SolNode27","name":"E Prime","systemIndex":2,"systemName":"地球","nodeType":0,"masteryReq":0,"missionIndex":1,"factionIndex":0,"minEnemyLevel":1,"maxEnemyLevel":3},
 {"uniqueName":"SolNode79","name":"Cambria","systemIndex":2,"systemName":"地球","nodeType":0,"masteryReq":0,"missionIndex":7,"factionIndex":0,"minEnemyLevel":3,"maxEnemyLevel":6},
