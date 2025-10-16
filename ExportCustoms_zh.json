@@ -2348,6 +2348,8 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeE","name":"殁世 Prime 胸甲（指挥官）","codexSecret":false,"description":"腐生的特质是英择谛家族美学的见证。也许这是一个教训，告诉那些凝视虚空的人如何在奢华与虚无的融合中发现美。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitPrimeF","name":"Tauron Prime 礼服（指挥官）","codexSecret":false,"description":"将 Tenno 的特能与 Sentient 设计融为一体的 Tauron 学院制服。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/BodySuits/BodySuitZephyrDeluxe","name":"鹞式套服","codexSecret":false,"description":"一件指挥官套装的套服。"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingA","name":"身心痕 D11","codexSecret":false,"excludeFromCodex":true,"description":"外部化的活体连接器硬件和由此产生的面部标记，由远古之战时期的工匠制作而成。"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingB","name":"身心痕 Asa-03","codexSecret":false,"excludeFromCodex":true,"description":"外部化的活体连接器硬件和由此产生的面部标记，由远古之战时期的工匠制作而成。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingC","name":"身心痕 J-02","codexSecret":false,"excludeFromCodex":true,"description":"外部化的活体连接器硬件和由此产生的面部标记，由远古之战时期的工匠制作而成。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingD","name":"身心痕 Dev-64","codexSecret":false,"excludeFromCodex":true,"description":"外部化的活体连接器硬件和由此产生的面部标记，由远古之战时期的工匠制作而成。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Operator/FacialMarkings/FacialMarkingE","name":"身心痕 Asa-23","codexSecret":false,"excludeFromCodex":true,"description":"外部化的活体连接器硬件和由此产生的面部标记，由远古之战时期的工匠制作而成。"},
