@@ -1,13 +1,13 @@
-ExportCustoms_zh.json!00_faqLu0SrToG2jVqe3G7Icg
+ExportCustoms_zh.json!00_gZuAJPkeqmooElUn6MgDwg
 ExportDrones_zh.json!00_jUc4ePGI0jhH4S1l4J6Hxg
-ExportFlavour_zh.json!00_AzX9KTrUlyRiGgRhIaGNFw
+ExportFlavour_zh.json!00_Z+48Lq2WbCBN7hnxlkAhzQ
 ExportFusionBundles_zh.json!00_6zFK3IslPUqUex7U9GnMMw
 ExportGear_zh.json!00_zuGY32OAfJwSB3xWOPxh6g
 ExportKeys_zh.json!00_TU-47e0ADSSX7mYh3tndNQ
 ExportRecipes_zh.json!00_naw87rzaPM9dAVthE-jG0w
 ExportRegions_zh.json!00_0Dgq28IJUiysJDIASqvcIg
 ExportRelicArcane_zh.json!00_TBA3Fzem3BWqdSDSpk6DGw
-ExportResources_zh.json!00_+Eub7zD4ydlJq3yCGWjtig
+ExportResources_zh.json!00_TAohBonVvGmG-zhgyUDQMg
 ExportSentinels_zh.json!00_-qqUErJeDXVRIZRLOUcyiQ
 ExportSortieRewards_zh.json!00_PXVPVsYN8YLfxJCZqjQMIQ
 ExportUpgrades_zh.json!00_NiVxmroWFM7iST-Q1DhVKw

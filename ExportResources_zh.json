@@ -1169,7 +1169,7 @@
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyVoidBronze","name":"钢铁之路 — 虚空","description":"踏上了虚空钢铁之路的象征。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/PlanetTrophies/PlanetTrophyZarimanBronze","name":"钢铁之路 —「扎里曼号」","description":"踏上了「扎里曼号」钢铁之路的象征。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxBushA","name":"双衍王境灌木","description":"一种银叶灌木，其设计模仿了《双衍王境故事集》中描述的植物。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
-{"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFernA","name":"双衍王境蕨类植物（金）","description":"一种金色蕨类植物，其设计模仿了《双衍王境故事集》中描述的植物。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
+{"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFernA","name":"双衍王境蕨类植物（金）","description":"一种金边银蕨，其设计模仿了《双衍王境故事集》中描述的植物。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFlowerGroupingB","name":"双衍王境花卉（片）","description":"一片紫色和黄色的花朵。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFlowerGroupingD","name":"双衍王境花卉（列）","description":"一排五颜六色的花朵。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
 {"uniqueName":"/Lotus/Types/Items/ShipDecos/Plants/Nokko/LisetPropDUVxFlowerGroupingE","name":"双衍王境朱顶红","description":"仿照《双衍王境故事集》中描述的植物而创造的红色朱顶红花簇。","codexSecret":false,"parentName":"/Lotus/Types/Items/ShipDecos/ShipDecoItem"},
