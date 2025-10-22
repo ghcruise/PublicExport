@@ -1065,8 +1065,6 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/BaroEphemeraB","name":"Ki'Teer 尊崇幻纹","codexSecret":true,"description":"每一步都彰显着精致。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/BaroEvilEphemera","name":"终劫 Ki'Teer 幻纹","codexSecret":false,"description":"据说靠近幻纹的人们能听到邪恶的低语，但这显然是些虚幻的传闻。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/BaruukPrimeEphemera","name":"惟喜 Prime 幻纹","codexSecret":false,"description":"展示 Baruuk 的象征，尊重你与他人的宁静。在中继站中，可暂时将惟喜 Prime 幻纹赠予他人。"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Effects/BaseFootsteps","name":"BaseFootsteps","codexSecret":false,"excludeFromCodex":true,"description":"选择要进行赋能的道具"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Effects/BaseFootstepsFullColor","name":"BaseFootsteps","codexSecret":false,"excludeFromCodex":true,"description":"选择要进行赋能的道具"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/BatWingsEphemera","name":"暗夜之翼幻纹","codexSecret":false,"description":"用这款阴魂不散的幻纹来展开夜之翅膜。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/BatsEphemera","name":"纳贝流士幻纹","codexSecret":false,"description":"孤傲的战士，独行于族群\r\n唯有月雾蝠，常伴其左右\r\n眼神若冰霜，内心亦朦胧\r\n化身为恐惧，死亡之贵族"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/CalibanDeluxeEphemera","name":"尤丽迪茜幻纹","codexSecret":false,"description":"与黄泉归来的灵魂作伴。"},
