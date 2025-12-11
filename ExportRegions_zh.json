@@ -258,4 +258,11 @@
 {"uniqueName":"SolNode855","name":"对战：小队 VS 小队","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":42,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
 {"uniqueName":"SolNode856","name":"刺杀：H-09 坦克","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":0,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
 {"uniqueName":"SolNode857","name":"对战：小队独战","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":42,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
-{"uniqueName":"SolNode858","name":"至日广场","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":8,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70}]}
+{"uniqueName":"SolNode858","name":"至日广场","systemIndex":23,"systemName":"霍瓦尼亚","nodeType":0,"masteryReq":0,"missionIndex":8,"factionIndex":8,"minEnemyLevel":65,"maxEnemyLevel":70},
+{"uniqueName":"SolNode250","name":"回忆：英魂统使","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":44,"factionIndex":3,"minEnemyLevel":65,"maxEnemyLevel":70},
+{"uniqueName":"SolNode251","name":"回忆：指节使","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":44,"factionIndex":3,"minEnemyLevel":65,"maxEnemyLevel":70},
+{"uniqueName":"SolNode252","name":"回忆：先锋","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":44,"factionIndex":3,"minEnemyLevel":65,"maxEnemyLevel":70},
+{"uniqueName":"SolNode253","name":"下降","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":43,"factionIndex":3,"minEnemyLevel":65,"maxEnemyLevel":65},
+{"uniqueName":"SolNode254","name":"从玛丽的圣所沉降","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":43,"factionIndex":3,"minEnemyLevel":72,"maxEnemyLevel":72},
+{"uniqueName":"SolNode255","name":"从里昂的圣所沉降","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":43,"factionIndex":3,"minEnemyLevel":79,"maxEnemyLevel":79},
+{"uniqueName":"SolNode256","name":"罗瑟的遗忘","systemIndex":24,"systemName":"深溯池，火卫二","nodeType":0,"masteryReq":0,"missionIndex":43,"factionIndex":3,"minEnemyLevel":86,"maxEnemyLevel":86}]}
