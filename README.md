@@ -1,3 +1,3 @@
 # PublicExport
 Warframe PublicExport
-40.0.2
+41.0.3
