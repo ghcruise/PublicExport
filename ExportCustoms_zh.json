@@ -4032,7 +4032,7 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoGenSigil","name":"TennoGen 浮印","codexSecret":false,"description":"一个特殊的纹章，仅有精选出来的少数 Tenno 可以佩戴。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoLive2015Sigil","name":"Tenno Live 纹章","codexSecret":false,"description":"奖励那些参与 Tenno Live 2015 活动的玩家。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoLivePromoSigil","name":"Tenno 人杰纹章","codexSecret":false,"description":"纪念 Tenno 大联合的荣耀徽记。"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil","name":"Tenno VIP East 纹章","codexSecret":false,"excludeFromCodex":true,"description":"VIP Tenno 的纹章。"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoVIP2024Sigil","name":"TennoVIP East 纹章","codexSecret":false,"excludeFromCodex":true,"description":"VIP Tenno 的纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TennoVIP2025Sigil","name":"TennoVIP 2025 纹章","codexSecret":false,"excludeFromCodex":true,"description":"VIP Tenno 的纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/Tennogen10YearSigil","name":"TennoGen 十周年纪念纹章","codexSecret":true,"description":"纪念 TennoGen 艺术十周年的纹章。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Sigils/TeralystSigil","name":"兆力使纹章","codexSecret":false,"description":"描绘 Sentient 兆力使的纹章。"},
