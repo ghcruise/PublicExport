@@ -10,7 +10,7 @@ ExportRelicArcane_zh.json!00_uzoODD8of2NQPtvE1JK9rA
 ExportResources_zh.json!00_cErJnHRJLDI3SxJw7nVUSw
 ExportSentinels_zh.json!00_9XVxUBzLu5VzVKtKO8rVFg
 ExportSortieRewards_zh.json!00_XY9z4niZP26vi5iAl+wpeg
-ExportUpgrades_zh.json!00_rRYELDUxuwgVybmvXuDjTQ
-ExportWarframes_zh.json!00_Ht5MUG2yNK3nI2weoTSV2Q
+ExportUpgrades_zh.json!00_-iINl7g++V1vbo6cC5VOVw
+ExportWarframes_zh.json!00_ImMK3B3pMJiu1CqrLNeS8g
 ExportWeapons_zh.json!00_pKKTcPHRmMQSJf5sp72EWQ
 ExportManifest.json!00_bcglTlTdPloy4wjxIQNCow

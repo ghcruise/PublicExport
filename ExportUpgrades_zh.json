@@ -6182,7 +6182,7 @@
 {"stats":["光子轰击强化：如果光子轰击击中至少 <LOWER_IS_BETTER>7 名敌人，下一次施放将不会消耗任何能量并且发射两道额外轰击。"]},
 {"stats":["光子轰击强化：如果光子轰击击中至少 <LOWER_IS_BETTER>6 名敌人，下一次施放将不会消耗任何能量并且发射两道额外轰击。"]},
 {"stats":["光子轰击强化：如果光子轰击击中至少 <LOWER_IS_BETTER>5 名敌人，下一次施放将不会消耗任何能量并且发射两道额外轰击。"]}]},
-{"uniqueName":"/Lotus/Powersuits/Trapper/LevTrapAugmentCard","name":"不朽的力场牢狱","polarity":"AP_POWER","rarity":"RARE","codexSecret":false,"baseDrain":6,"fusionLimit":3,"compatName":"Vauban","type":"WARFRAME","subtype":"/Lotus/Powersuits/Trapper/TrapperBaseSuit","tags":["Enduring Bastille"],"levelStats":[{"stats":["力场牢狱强化：在力场牢狱内击杀一个敌人，可延长持续时间 2 秒。每投进牢狱一个额外漩涡，漩涡的持续时间都会增加其最长延续时间的 50%。"]},
+{"uniqueName":"/Lotus/Powersuits/Trapper/LevTrapAugmentCard","name":"永续力场","polarity":"AP_POWER","rarity":"RARE","codexSecret":false,"baseDrain":6,"fusionLimit":3,"compatName":"Vauban","type":"WARFRAME","subtype":"/Lotus/Powersuits/Trapper/TrapperBaseSuit","tags":["Enduring Bastille"],"levelStats":[{"stats":["力场牢狱强化：在力场牢狱内击杀一个敌人，可延长持续时间 2 秒。每投进牢狱一个额外漩涡，漩涡的持续时间都会增加其最长延续时间的 50%。"]},
 {"stats":["力场牢狱强化：在力场牢狱内击杀一个敌人，可延长持续时间 2 秒。每投进牢狱一个额外漩涡，漩涡的持续时间都会增加其最长延续时间的 55%。"]},
 {"stats":["力场牢狱强化：在力场牢狱内击杀一个敌人，可延长持续时间 2 秒。每投进牢狱一个额外漩涡，漩涡的持续时间都会增加其最长延续时间的 60%。"]},
 {"stats":["力场牢狱强化：在力场牢狱内击杀一个敌人，可延长持续时间 2 秒。每投进牢狱一个额外漩涡，漩涡的持续时间都会增加其最长延续时间的 70%。"]}]},
