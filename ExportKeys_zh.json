@@ -13,7 +13,7 @@
 {"uniqueName":"/Lotus/Types/Keys/GlassQuest/GlassQuestKeyChain","name":"萨娅的守夜","description":"在夜灵平野中，一个秘密埋藏了许久：这个秘密可以治愈或毁灭人心，并将打开一道通往隐秘过去的大门。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/GolemQuest/GolemQuestKeyChainItem","name":"Jordas 枢律","description":"Ordis 决意帮助一具中枢同伴压制一艘遭到广域性感染的船舰。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/IndexQuest/IndexQuestKeyChain","name":"Glast 的千钧一策","description":"奈富·安尤偷走了 Mycona 殖民地的孩子们，全靠你去解救他们了。你需要在指数之场中挑战 奈富，在他自己的游戏中击败他。但是注意了，Tenno，并不是一切都如看起来那么单纯。","parentName":"","codexSecret":false},
-{"uniqueName":"/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey","name":"异融 Alad V 刺杀","description":"突袭 Alad V 的研究船，终结他的异融者实验。","parentName":"/Lotus/Types/Keys/TestKeyA","codexSecret":true},
+{"uniqueName":"/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey","name":"异融 Alad V 刺杀","description":"突袭 Alad V 的研究船，终结他的异融者实验。","parentName":"/Lotus/Types/Keys/TestKey","codexSecret":true},
 {"uniqueName":"/Lotus/Types/Keys/InfestedAladVQuest/InfestedAladVQuestKeyChain","name":"零号病患","description":"找到 Alad V 的实验室并制止他的疯狂行径。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/InfestedIntroQuest/InfestedIntroQuestKeyChain","name":"悲剧的开端","description":"拦截到的 Grineer 通讯显示，Grineer一直在试验某种生化武器，你必须调查清楚。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/InfestedMicroplanetQuest/InfestedMicroplanetQuestKeyChain","name":"惊惧之心","description":"火卫二出现在了火星轨道上，被大量感染者占领……然而在这些蠕动的生物体中，伴随着一道极古老的载波，传来了一个求救信号……","parentName":"","codexSecret":false},
@@ -42,5 +42,4 @@
 {"uniqueName":"/Lotus/Types/Keys/WraithQuest/WraithQuestKeyChain","name":"风暴的呼唤","description":"虚空风暴正在 Corpus 航道上聚集……难道是某艘神秘诡舰所造成的？","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/YareliQuest/YareliQuestKeyChain","name":"驭浪者","description":"当悲剧突然降临时，通风小子在一个失传已久的故事中寻找希望。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/ZarimanQuest/ZarimanQuestKeyChain","name":"扎里曼的天使","description":"一道声音从感知以外的幽深之处响起，其回响不容忽视。不再完全被变幻万千的虚空所掩盖，「扎里曼号」现在停泊于两界之间。荧惑的歌声在星系中回荡，是时候与过去开始一场早该进行的斗争了……","parentName":"","codexSecret":false},
-{"uniqueName":"/Lotus/Types/Keys/DojoKey","name":"氏族钥匙","description":"解开进入氏族道场的权限","parentName":"/Lotus/Types/Game/KeyItem","codexSecret":true},
-{"uniqueName":"/Lotus/Types/Keys/SortieBossKeyInfestedAladV","name":"异融 Alad V 刺杀","description":"突袭 Alad V 的研究船，终结他的异融者实验。","parentName":"/Lotus/Types/Keys/InfestedAladVQuest/AssassinateInfestedAladVKey","codexSecret":true,"excludeFromCodex":true}]}
+{"uniqueName":"/Lotus/Types/Keys/DojoKey","name":"氏族钥匙","description":"解开进入氏族道场的权限","parentName":"/Lotus/Types/Game/KeyItem","codexSecret":true}]}
