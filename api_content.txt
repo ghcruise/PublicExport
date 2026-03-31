@@ -1,4 +1,4 @@
-ExportCustoms_zh.json!00_xYioN9l+0zsb2cBHMa6ugw
+ExportCustoms_zh.json!00_d8qAWUi+e7yn08KAa3KSsg
 ExportDrones_zh.json!00_drdgnw2FAjdyNqF+sh2nBQ
 ExportFlavour_zh.json!00_e1aoMwgCQVJTH6TZfJJZ8Q
 ExportFusionBundles_zh.json!00_6zFK3IslPUqUex7U9GnMMw
@@ -10,7 +10,7 @@ ExportRelicArcane_zh.json!00_H6vIQnJkZRR60S7+AlM9+Q
 ExportResources_zh.json!00_jl7PdsB11DgWm-h-JL3Lrg
 ExportSentinels_zh.json!00_9XVxUBzLu5VzVKtKO8rVFg
 ExportSortieRewards_zh.json!00_XY9z4niZP26vi5iAl+wpeg
-ExportUpgrades_zh.json!00_1jl1111fna49DAoG-sweBg
+ExportUpgrades_zh.json!00_5p0xOLOdAyyyBWBYFqhrcw
 ExportWarframes_zh.json!00_Jv7AxasgpFaYa+9MtjfmtQ
 ExportWeapons_zh.json!00_-Ysdw6rr9dqvATCJ5lt-CQ
 ExportManifest.json!00_bX3VrfrYU9UIK5FF-bVpbg
