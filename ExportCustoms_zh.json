@@ -1209,7 +1209,7 @@
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/SnowEphemera","name":"霜降幻纹","codexSecret":false,"description":"在一片雪花飘落的云朵下化作冬日之心。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/TatsuSkullEphemera","name":"颅骨幻纹","codexSecret":false,"excludeFromCodex":true,"description":"亡者的余音在你身上环绕 — 在钢铁之路上获取。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/TennoCon2021Ephemera","name":"TennoCon 2021 幻纹","codexSecret":false,"excludeFromCodex":true,"description":"授予一同参与欢庆 TennoCon 2021 的玩家。"},
-{"uniqueName":"/Lotus/Upgrades/Skins/Effects/TennoCon2026Ephemera","name":"英魂统使幻纹","codexSecret":false,"description":"效仿舰体的宏观之形，这个幻纹唤起了 Tenno 对昔日冲突的追忆。"},
+{"uniqueName":"/Lotus/Upgrades/Skins/Effects/TennoCon2026Ephemera","name":"英魂统使幻纹","codexSecret":true,"description":"效仿舰体的宏观之形，这个幻纹唤起了 Tenno 对昔日冲突的追忆。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/Twitch2023Ephemera","name":"拉雅极光幻纹","codexSecret":false,"description":"通过这款精致的幻纹，唤起太阳风暴的浩瀚与美丽。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/TwitchEphemera","name":"热忱幻纹","codexSecret":false,"excludeFromCodex":true,"description":"通过一举一动来宣告你的存在。"},
 {"uniqueName":"/Lotus/Upgrades/Skins/Effects/VoidAngelEphemeraA","name":"狂翼幻纹","codexSecret":false,"description":"展现了天使之翼的威严。"},

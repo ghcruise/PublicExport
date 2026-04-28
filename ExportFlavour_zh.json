@@ -464,6 +464,7 @@
 {"uniqueName":"/Lotus/Types/Items/Titles/AirHunterTitle","name":"荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Items/Titles/ArbitersOfHexisTitle","name":"求真者荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Items/Titles/ArcaneCollectorTitle","name":"荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
+{"uniqueName":"/Lotus/Types/Items/Titles/BOTBEventVendor3Title","name":"不稳定微粒荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Items/Titles/CephalonSudaTitle","name":"求知若渴荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Items/Titles/ClemTitle","name":"荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Items/Titles/CodaKillerTitle","name":"荣誉称号","description":"个人资料的荣誉称号。","codexSecret":false,"excludeFromCodex":true},
