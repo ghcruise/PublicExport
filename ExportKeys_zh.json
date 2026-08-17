@@ -27,7 +27,7 @@
 {"uniqueName":"/Lotus/Types/Keys/MummyQuest/MummyQuestKeyChain","name":"Inaros 之沙","description":"帮 Baro Ki'Teer 突袭一座古老的火星古墓并偷盗一件神秘的宝物。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/NewPlayerQuest/NewPlayerQuestKeyChain","name":"觉醒","description":"Tenno：古代战士地位的遗迹。\r\n\r\n世世代代你都在沉睡，也没有人唤醒你。\r\n\r\n直到现在。","parentName":"","codexSecret":true,"excludeFromCodex":true},
 {"uniqueName":"/Lotus/Types/Keys/NewWarIntroQuest/NewWarIntroKeyChain","name":"Erra","description":"","parentName":"","codexSecret":true},
-{"uniqueName":"/Lotus/Types/Keys/NewWarQuest/NewWarQuestKeyChain","name":"新纪之战","description":"Sentient 舰队正以惊人的数量从面纱比邻星域中涌现。\r\n\r\n领军的 Natah，曾是我们倍受信赖的向导 “Lotus”。而她现在似乎已被其亲弟 Erra，以及 Ballas 奴役。\r\n\r\n横跨整个星系，Tenno 与他们意想不到的盟友，发动了最终强袭以攻占 Sentient 母舰。而 Natah……亦在舰中严阵以待。","parentName":"","codexSecret":true},
+{"uniqueName":"/Lotus/Types/Keys/NewWarQuest/NewWarQuestKeyChain","name":"新纪之战","description":"Sentient 舰队正以惊人的数量从面纱比邻星域中涌现。\r\n\r\n领军的 Natah，曾是我们倍受信赖的向导 \"Lotus\"。而她现在似乎已被其亲弟 Erra，以及 Ballas 奴役。\r\n\r\n横跨整个星系，Tenno 与他们意想不到的盟友，发动了最终强袭以攻占 Sentient 母舰。而 Natah……亦在舰中严阵以待。","parentName":"","codexSecret":true},
 {"uniqueName":"/Lotus/Types/Keys/OrokinMoonQuest/OrokinMoonQuestKeyChain","name":"第二场梦","description":"Sentient Hunhow 企图发掘一些被长久遗忘的秘密来毁灭 Tenno。","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/PriestFrameQuest/PriestQuestKeyChain","name":"Harrow 的枷锁","description":"一条奇怪的通信引向黑暗世界深处血色面纱的神秘。在那里会找到何种邪恶之物，而他们的目的又是什么呢？","parentName":"","codexSecret":false},
 {"uniqueName":"/Lotus/Types/Keys/ProteaQuest/ProteaQuestKeyChain","name":"僵局协议","description":"Corpus 内部爆发了一场始于 Corpus 精英之间的权力斗争。为了夺取控制权的奈富·安尤着眼于过去……追溯到了 Corpus 自身的起源。","parentName":"","codexSecret":false},
