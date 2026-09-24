@@ -97,7 +97,7 @@
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyUseForma","name":"已极化","description":"极化一个武器、同伴或战甲（不在幻影装置中）。","standing":4500,"required":1},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyVenusBounties","name":"金星赏金猎人","description":"在奥布山谷完成 |COUNT| 个赏金任务。","standing":4500,"required":3},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyVoidNet","name":"虚空之网","description":"收集 |COUNT| 个虚空光体。","standing":4500,"required":30},
-{"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyNightAndDay","name":"日日夜夜","description":"在魔胎之境中收集 |COUNT| 个“秩序”或“混乱”的残留物。","standing":4500,"required":10},
+{"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyNightAndDay","name":"日日夜夜","description":"在魔胎之境中收集 |COUNT| 个\"秩序\"或\"混乱\"的残留物。","standing":4500,"required":10},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyLoyalty","name":"忠心耿耿","description":"获得 |COUNT| 任意集团的声望。","standing":4500,"required":5000},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyTheOldWays","name":"老路子","description":"仅装备一把手枪和战刃来完成 1 次任务。","standing":4500,"required":1},
 {"uniqueName":"/Lotus/Types/Challenges/Seasons/Weekly/SeasonWeeklyBloodthirsty","name":"大杀特杀","description":"在 5 秒内击杀 20 名敌人。","standing":4500,"required":1},
